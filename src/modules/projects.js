@@ -12,7 +12,7 @@ const projects = [
   {
     name: "Multiverse Patrols",
     thumbnail: "/projects/multiversePatrols.png",
-    version: "v1.0.1 (02/03/2025)",
+    version: "v1.0 (14/02/2025)",
     description: "Narrative game designed with React.",
     link: "https://multiversepatrols.netlify.app",
     code: "https://github.com/AlexKingCoder/multiversepatrols"
@@ -42,9 +42,17 @@ const projects = [
     code: "https://github.com/AlexKingCoder/audi-spain"
   },
   {
+    name: "King Coder",
+    thumbnail: "/KingCoderLogoSmall.png",
+    version: "Active",
+    description: "Channel where I document the progress of my projects.",
+    link: "https://youtube.com/@alexkingcoder",
+    code: "https://www.youtube.com/@alexkingcoder/videos"
+  },
+  {
     name: "Educando Héroes",
     thumbnail: "/projects/logoEducandoHeroes.png",
-    version: "En desarrollo",
+    version: "Active",
     description: "Channel focused on education and personal development.",
     link: "https://youtube.com/@educandoheroes",
     code: "https://www.youtube.com/@educandoheroes/videos"
