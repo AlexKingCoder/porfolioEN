@@ -15,11 +15,11 @@ export function createSkills() {
       },
       {
         title: "Backend Development",
-        description: "Experience with Node.js, Express, Multer and MongoDB."
+        description: "Experience with Node.js, Express and Multer."
       },
       {
         title: "Databases",
-        description: "Design and optimisation of non-relational databases."
+        description: "Design and optimisation of MongoDB and Postgre."
       },
       {
         title: "React",
